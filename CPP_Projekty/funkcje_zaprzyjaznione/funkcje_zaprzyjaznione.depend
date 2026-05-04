@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777898550 source:c:\users\janec\documents\cpp_projekty\funkcje_zaprzyjaznione\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1777898715 c:\users\janec\documents\cpp_projekty\funkcje_zaprzyjaznione\przyjaciele.h
+	<iostream>
+
